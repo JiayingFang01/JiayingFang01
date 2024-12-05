@@ -16,3 +16,4 @@ My internship experiences span across sectors such as sustainable investing, ESG
 I am always on the lookout for opportunities to collaborate and innovate within the data science community. Whether you're interested in discussing potential projects, sharing insights, or exploring new technologies, feel free to connect with me:
 [LinkedIn](https://www.linkedin.com/in/jiaying-fang/), [Email](jf3583@columbia.edu)
 
+Please feel free to explore my repository!
