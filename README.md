@@ -4,7 +4,9 @@
 I'm Fiona Fang, a passionate data enthusiast currently pursuing my studies in Quantitative Methods in Social Sciences (QMSS) with a concentration in Data Science at Columbia University. My journey involves blending academia and real-world experience to use the power of data for positive change.
 
 ### 🔍 Explore with Me
-My academic foundation is in Government and Public Administration, which I pursued during my undergraduate studies at the University of Macau. This background, combined with my current focus on QMSS, equips me with a unique perspective on data analysis and policy-making. My internship experiences span across sectors such as ESG consulting, energy market research, education technology, and NGOs, each contributing to my growing skill set and reinforcing my commitment to data-driven insights.
+My academic foundation is in Government and Public Administration, which I pursued during my undergraduate studies at the University of Macau. This background, combined with my current focus on data analysis, equips me with a unique perspective on data analysis and policy-making. 
+
+My internship experiences span across sectors such as sustainable investing, ESG consulting, and energy market research, each contributing to my growing skill set and reinforcing my commitment to data for good.
 
 💻 Programming & Tools: Python, R, SQL, JavaScript, Stata, Tableau, Power BI, Git, LaTeX, AWS, Databricks
 
